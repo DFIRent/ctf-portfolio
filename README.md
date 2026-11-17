@@ -1,2 +1,4 @@
-# ctf-portfolio
-BACS 3002: Portfolio Practicum Portfolio
+# Joshua Nikolson - Cybersecurity Portfolio
+Hello, I am Joshua, and I currently work at Unit 42 as an MDR Analyst. I am passionate about Digital Forensics and Incident Response, and was drawn to cybersecurity at a young age after realizing there was a career where I would be able to investigate suspicious activity on computers.  
+
+The NCL Fall 2026 competition was another memorable milestone in my SANS journey, where my team placed 90th overall and 26th in the experienced bracket. Returning as team captain, I was grateful to organize a team full of talented individuals who absolutely crushed the challenges. This season marked my personal best in overall challenge completion; we held a top-ten global pace until a single difficult OSINT question tested our limits, that we were unable to answer. Although falling just short of a top-three bracket finish was humbling, I am proud of our execution, and I look forward to competing again—whether through a Master's program or future seasons—to keep sharpening my skills. My Score Reports for the Individual and Team Games are attached to the repository, and you can view my personal blog and contact information here: https://www.donotclickthat.link/
